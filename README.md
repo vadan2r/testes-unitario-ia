@@ -1,2 +1,2 @@
-# vulnerabilidades-app
-Desafio de Projeto - DIO - Criação de cenários controlados para simulação e estudo de vulnerabilidades em aplicações.
+# testes-unitarios-ia
+Desafio de Projeto - DIO - Gerando Testes Unitários com LangChain e Azure ChatGPT.
